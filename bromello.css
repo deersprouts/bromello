@@ -1,0 +1,8 @@
+/* BROMELLO CONFIGURED BY GLOWYRPT */
+
+@font-face {
+font-family: 'bromello';
+font-style: normal;
+font-weight: normal;
+src: local('bromello'), url('https://github.com/deersprouts/bromello/raw/master/bromello.woff') format('woff');
+}
